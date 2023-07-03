@@ -18,3 +18,6 @@ The Big Mart Sales dataset available on Kaggle is a comprehensive collection of 
 * Outlet Type: The type of outlet format (e.g., Supermarket Type1, Grocery Store).
 ### Dataset Source
 The Big Mart Sales dataset available on Kaggle is typically provided as part of a data science competition or a real-world data challenge. The dataset is created for educational or research purposes and is not derived from actual sales data.
+
+## Project Link
+Link project: https://big-mart-sales-35dtuu89bfo.streamlit.app/
